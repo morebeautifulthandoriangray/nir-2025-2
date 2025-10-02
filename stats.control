@@ -1,0 +1,5 @@
+# stats.control
+comment = 'Statistical functions package'
+default_version = '1.0'
+relocatable = true
+schema = public
