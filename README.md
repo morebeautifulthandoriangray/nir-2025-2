@@ -15,6 +15,7 @@ sudo cp stats--1.0.sql /usr/share/postgresql/16/extension/
 2. Подключите расширение в вашей базе данных:
 
 CREATE EXTENSION stats;
+```
 
 ---
 
