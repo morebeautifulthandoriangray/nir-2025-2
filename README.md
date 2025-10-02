@@ -21,7 +21,7 @@ CREATE EXTENSION stats;
 
 ## Использование
 
-1. Доступные функции
+**Доступные функции**
 
 **χ²-тест независимости**
 SELECT stats_chi2_test('table_name', 'col1', 'col2');
